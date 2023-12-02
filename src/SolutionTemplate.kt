@@ -1,10 +1,10 @@
 fun main() {
-    fun part1(input: List<String>): Int {
-        return input.size
+    fun part1(input: List<String>) {
+        TODO()
     }
 
-    fun part2(input: List<String>): Int {
-        return input.size
+    fun part2(input: List<String>) {
+        TODO()
     }
 
     val input = readInput("Day01").lines()
